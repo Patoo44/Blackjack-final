@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\podpl\source\repos\BlackJack -- Final\Source.cpp(63,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\podpl\source\repos\BlackJack -- Final\Source.cpp(40,7): warning C4101: 'j': unreferenced local variable
+  BlackJack -- Final.vcxproj -> C:\Users\podpl\source\repos\BlackJack -- Final\x64\Debug\BlackJack -- Final.exe
